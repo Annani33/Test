@@ -18,16 +18,3 @@
 <li>Рассмотреть пример создания таблиц
 </ul>
 
-<h2><center>Ход работы<center></center></h2>
-Таблица простой структуры имеет одинаковые количество строк и столцов
-<table border=1 width=50%>
-<tr><td>леый верх</td><td>правый верх</td></tr>
-<tr><td>левый вниз</tr><td>правцй вниз</td></tr>
-</table>
-<p>Таблица сложный структуры будет иметь вид следующий
-<table border=1 width=50%>
-<tr><td colspan=2 bgcolor=green>11</td><td rowspan=2 bgcolor=blue>12</td></tr>
-<tr><td>21</td><td>22</td></tr>
-</table>
-</body>
-</html>
